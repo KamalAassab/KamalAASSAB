@@ -1,94 +1,85 @@
 # 👋 Bienvenue sur mon GitHub
 
-Je suis **Kamal Aassab**, Développeur Web Full-Stack Junior, passionné par la création d’applications web modernes et performantes.  
-Mon ambition : développer des solutions utiles, évolutives et centrées sur l’utilisateur, avec un code propre et maintenable.  
+Je suis **Kamal Aassab**, Développeur Web Full-Stack Junior.  
+Passionné par le développement moderne, j’aime transformer des idées en applications performantes et utiles.  
 
 📍 Casablanca-Settat, Maroc  
-📧 kamalaassab2002@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/kamalaassab) | 🐙 [GitHub](https://github.com/KamalAassab)
+📧 kamalaassab2002@gmail.com  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamalaassab)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KamalAassab)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamalaassab2002@gmail.com)
 
 ---
 
-## 🚀 Ce que je fais
-- **Frontend** : conception d’interfaces fluides, responsives et accessibles.  
-- **Backend** : développement d’APIs robustes, sécurisées et performantes.  
-- **Bases de données** : modélisation et optimisation SQL pour des systèmes fiables.  
-- **Qualité & Méthodologie** : tests automatisés, CI/CD et organisation Agile/Scrum.  
-
-💡 J’aime transformer une idée en un produit réel qui a de l’impact.
-
----
-
-## 🛠️ Stack & Compétences techniques
+## 🛠️ Stack & Compétences
 
 ### 🎨 Frontend
-- **Frameworks & Librairies** : ReactJS, React Query, React Hook Form, TypeScript  
-- **UI & Styling** : Tailwind CSS, Bootstrap, HTML, CSS, JavaScript (ES6+), Vite.js  
-- **Tests** : Cypress.io  
-- **Validation** : Zod  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,tailwind,bootstrap,vite" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3066BE?style=for-the-badge&logoColor=white" />
+</p>
 
 ### ⚙️ Backend
-- **Node.js & Express.js**  
-- **PHP & Laravel**  
-- **ORM & Authentification** : Drizzle ORM, Passport.js, JWT  
-- **Temps réel & Fichiers** : WebSocket, Multer  
-- **Sécurité** : Bcrypt.js  
-- **Tests unitaires** : Jest  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-3C3C3C?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multer-FFCA28?style=for-the-badge&logo=npm&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bcrypt.js-004C99?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
 
 ### 🗄️ Bases de données
-- MySQL, PostgreSQL, phpMyAdmin  
-- Modélisation UML / MERISE  
-- Optimisation SQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML/MERISE-003366?style=for-the-badge&logoColor=white" />
+</p>
 
-### 📊 Outils & Technologies diverses
-- Git & GitHub (workflow, branches, issues, pull requests)  
-- Postman (tests APIs)  
-- Power BI (analyse de données)  
-- Canva (design)  
-- Office 365, MS Project (gestion de projet)  
-- Arduino (prototypage électronique)  
-
-### 📢 Marketing & Design
-- Facebook Ads  
-- UI/UX design basique (maquettes, wireframes avec Canva/Figma)  
-
-### 💻 Langages
-- Java (POO)  
-- JavaScript / TypeScript  
-- PHP  
-
-### 🔄 Méthodologies
-- Agile / Scrum  
-- Travail en équipe et gestion de projet collaboratif  
+### 📊 Outils & Divers
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,java" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
 ---
 
 ## 🌟 Projets phares
-
-🔹 **🛒 Plateforme e-commerce complète**  
-Stack : React (TypeScript, Vite.js, React Query, React Hook Form, Zod), Node.js, Express.js, Drizzle ORM, MySQL, Passport.js, JWT, WebSocket, Multer, Cypress.io, Jest, Git, Tailwind CSS.  
+🔹 **🛒 Plateforme e-commerce** – [Repo](lien_vers_repo)  
+Stack : React (TypeScript, Vite.js, React Query, RHF, Zod), Node.js, Express.js, Drizzle ORM, MySQL, Passport.js, JWT, WebSocket, Multer, Cypress.io, Jest, Git, Tailwind CSS.  
 Fonctionnalités : gestion produits, panier, stock, utilisateurs, authentification sécurisée, tableau de bord admin & client, notifications en temps réel.  
 
-🔹 **📚 Application de gestion de bibliothèque numérique**  
+🔹 **📚 Gestion de bibliothèque numérique** – [Repo](lien_vers_repo)  
 Stack : Java (POO), MySQL, PHP.  
-Fonctionnalités : CRUD livres, gestion des emprunts, recherche/suppression, rôles admin & client.  
+Fonctionnalités : CRUD livres, gestion emprunts, recherche/suppression, rôles admin & client.  
 
-🔹 **🌸 Site e-commerce de parfums**  
+🔹 **🌸 Site e-commerce de parfums** – [Repo](lien_vers_repo)  
 Stack : PHP, MySQL, HTML, CSS, JavaScript.  
-Fonctionnalités : catalogue produits, panier, gestion achats, gestion stock, espace admin.  
+Fonctionnalités : catalogue produits, panier, gestion achats, espace admin.  
 
 ---
 
 ## 📈 Statistiques GitHub
 ![Kamal GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamalAassab&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAassab&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KamalAassab&theme=radical)  
 
 ---
 
-## 🤝 Ce que j’apporte à une équipe
-- Esprit **rigoureux et orienté solution**.  
-- Capacité à apprendre vite et à m’adapter.  
-- Volonté de contribuer à des projets ambitieux et collaboratifs.  
-- Goût pour la **qualité du code et la collaboration** (pair programming, code reviews).  
+## 🐍 Snake animation
+![snake gif](https://github.com/KamalAassab/KamalAassab/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🤝 Soft Skills
+Communication claire · Travail en équipe · Adaptabilité · Autonomie · Rigueur · Organisation · Gestion du stress
 
 ---
 
