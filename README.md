@@ -47,7 +47,7 @@ Passionné par le développement moderne, j’aime transformer des idées en app
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="[https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white](https://cdn.brandfetch.io/id9mVQlyB1/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1725863485997)" />
 </p>
 
 ---
