@@ -6,9 +6,17 @@ Passionné par le développement moderne, j’aime transformer des idées en app
 📍 Casablanca-Settat, Maroc  
 📧 kamalaassab2002@gmail.com  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamalaassab)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KamalAassab)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamalaassab2002@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/kamalaassab" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/KamalAassab" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:kamalaassab2002@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -24,10 +32,10 @@ Passionné par le développement moderne, j’aime transformer des idées en app
 ### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-3C3C3C?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=node.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-3C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Multer-FFCA28?style=for-the-badge&logo=npm&logoColor=black" />
   <img src="https://img.shields.io/badge/Bcrypt.js-004C99?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
@@ -37,17 +45,19 @@ Passionné par le développement moderne, j’aime transformer des idées en app
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-  <img src="https://img.shields.io/badge/UML/MERISE-003366?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML%2FMERISE-003366?style=for-the-badge&logoColor=white" />
 </p>
 
 ### 📊 Outils & Divers
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,java" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,java,arduino" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-  <img src="[https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white](https://cdn.brandfetch.io/id9mVQlyB1/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1725863485997)" />
 </p>
 
 ---
@@ -72,7 +82,6 @@ Fonctionnalités : catalogue produits, panier, gestion achats, espace admin.
 ![Kamal GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamalAassab&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAassab&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KamalAassab&theme=radical)  
-
 
 ---
 
