@@ -73,16 +73,6 @@ Fonctionnalités : catalogue produits, panier, gestion achats, espace admin.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAassab&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KamalAassab&theme=radical)  
 
----
-
-## 🐍 Snake animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/github-contribution-grid-snake.svg" />
-</picture>
-
 
 ---
 
