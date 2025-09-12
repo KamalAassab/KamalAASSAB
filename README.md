@@ -46,21 +46,23 @@ Passionné par le développement moderne, j’aime transformer des idées en app
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
 
 ## 🌟 Projets phares
-🔹 **🛒 Plateforme e-commerce** – [Repo](lien_vers_repo)  
+
+🔹 **🛒 Plateforme e-commerce** – [Repo](https://github.com/KamalAassab/Lost-and-Found)  
 Stack : React (TypeScript, Vite.js, React Query, RHF, Zod), Node.js, Express.js, Drizzle ORM, MySQL, Passport.js, JWT, WebSocket, Multer, Cypress.io, Jest, Git, Tailwind CSS.  
 Fonctionnalités : gestion produits, panier, stock, utilisateurs, authentification sécurisée, tableau de bord admin & client, notifications en temps réel.  
 
-🔹 **📚 Gestion de bibliothèque numérique** – [Repo](lien_vers_repo)  
+🔹 **📚 Gestion de bibliothèque numérique** – [Repo](https://github.com/KamalAassab/Biblio-Java)  
 Stack : Java (POO), MySQL, PHP.  
 Fonctionnalités : CRUD livres, gestion emprunts, recherche/suppression, rôles admin & client.  
 
-🔹 **🌸 Site e-commerce de parfums** – [Repo](lien_vers_repo)  
+🔹 **🌸 Site e-commerce de parfums** – [Repo](https://github.com/KamalAassab/OulinouWebsite)  
 Stack : PHP, MySQL, HTML, CSS, JavaScript.  
 Fonctionnalités : catalogue produits, panier, gestion achats, espace admin.  
 
@@ -74,7 +76,7 @@ Fonctionnalités : catalogue produits, panier, gestion achats, espace admin.
 ---
 
 ## 🐍 Snake animation
-![snake gif](https://github.com/KamalAassab/KamalAassab/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KamalAassab/KamalAassab/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
