@@ -76,7 +76,13 @@ Fonctionnalités : catalogue produits, panier, gestion achats, espace admin.
 ---
 
 ## 🐍 Snake animation
-![snake gif](https://github.com/KamalAassab/KamalAassab/blob/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ---
 
