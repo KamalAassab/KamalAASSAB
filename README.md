@@ -1,98 +1,90 @@
-# 👋 Bienvenue sur mon GitHub
+<div align="center">
+  <img height="214" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t2NHRmb3podHE3Ym43YjV1Ynp1cm93Y2U2dGJ2NG4xYjFheWhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PMfeaU44ChYmRdWDrY/giphy.gif"  />
+</div>
 
-Je suis **Kamal Aassab**, Développeur Web Full-Stack Junior.  
-Passionné par le développement moderne, j’aime transformer des idées en applications performantes et utiles.  
+###
 
-📍 Casablanca-Settat, Maroc  
-📧 kamalaassab2002@gmail.com  
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20there!%20%F0%9F%A4%99&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kamalaassab" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+###
+
+<br clear="both">
+
+<h4 align="center">I'm Kamal, a skilled frontend developer with 1+ years of experience. I'm highly proficient in the core technologies that power modern web development, including React, TypeScript/JavaScript, Next.js, and Tailwind CSS.</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=KamalAassab&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KamalAassab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KamalAassab&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="148" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/5g0ch9ixazh6qb0make87ojpf">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5g0ch9ixazh6qb0make87ojpf&count=5&unique=true" alt="Spotify recently played"  />
   </a>
-  <a href="https://github.com/KamalAassab" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+###
+
+<div align="center">
+  <a href="linkedin.com/in/kamalaassab" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:kamalaassab2002@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="instagram.com/its.urky" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</p>
+  <a href="mailto:kamalaassab2002@gmail.com?subject=Hi%20there!%20can%20we%20talk%20about%20business%20%3F" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.behance.net/k872" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
+</div>
 
----
+###
 
-## 🛠️ Stack & Compétences
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Nice%20to%20meet%20you%20!&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,tailwind,bootstrap,vite" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3066BE?style=for-the-badge&logoColor=white" />
-</p>
+###
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-3C3C3C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multer-FFCA28?style=for-the-badge&logo=npm&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bcrypt.js-004C99?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/pacman-contribution-graph.svg">
+</picture>
 
-### 🗄️ Bases de données
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-  <img src="https://img.shields.io/badge/UML%2FMERISE-003366?style=for-the-badge&logoColor=white" />
-</p>
-
-### 📊 Outils & Divers
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,java,arduino" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-</p>
-
----
-
-## 🌟 Projets phares
-
-🔹 **🛒 Plateforme e-commerce** – [Repo](https://github.com/KamalAassab/Lost-and-Found)  
-Stack : React (TypeScript, Vite.js, React Query, RHF, Zod), Node.js, Express.js, Drizzle ORM, MySQL, Passport.js, JWT, WebSocket, Multer, Cypress.io, Jest, Git, Tailwind CSS.  
-Fonctionnalités : gestion produits, panier, stock, utilisateurs, authentification sécurisée, tableau de bord admin & client, notifications en temps réel.  
-
-🔹 **📚 Gestion de bibliothèque numérique** – [Repo](https://github.com/KamalAassab/Biblio-Java)  
-Stack : Java (POO), MySQL, PHP.  
-Fonctionnalités : CRUD livres, gestion emprunts, recherche/suppression, rôles admin & client.  
-
-🔹 **🌸 Site e-commerce de parfums** – [Repo](https://github.com/KamalAassab/OulinouWebsite)  
-Stack : PHP, MySQL, HTML, CSS, JavaScript.  
-Fonctionnalités : catalogue produits, panier, gestion achats, espace admin.  
-
----
-
-## 📈 Statistiques GitHub
-![Kamal GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamalAassab&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAassab&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KamalAassab&theme=radical)  
-
----
-
-## 🤝 Soft Skills
-Communication claire · Travail en équipe · Adaptabilité · Autonomie · Rigueur · Organisation · Gestion du stress
-
----
-
-## 📫 Me contacter
-📧 **kamalaassab2002@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/kamalaassab)  
-🐙 [GitHub](https://github.com/KamalAassab)  
-
----
+###
