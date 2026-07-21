@@ -271,7 +271,7 @@
     <circle cx="42" cy="514" r="4" fill="#10B981" filter="url(#glow)">
       <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="54" y="518" class="font-mono" font-size="10.5" fill="#CBD5E1" font-weight="600">LOC: EL JADIDA, MOROCCO 🇲🇦</text>
+    <text x="54" y="518" class="font-mono" font-size="10.5" fill="#CBD5E1" font-weight="600">LOC: MOROCCO 🇲🇦</text>
     <text x="368" y="518" class="font-mono" font-size="10.5" fill="#38BDF8" text-anchor="end" font-weight="600">ONLINE</text>
 
     <!-- Moving Scanline Overlay -->
@@ -352,17 +352,10 @@
 
     <!-- 3. PERSONAL & PROFESSIONAL DETAILS GRID -->
     <g transform="translate(30, 148)">
-      <!-- Row 1: Location & Position -->
-      <!-- Location -->
+      <!-- Row 1: Location -->
       <g transform="translate(0, 0)">
         <text class="font-sans" font-size="12" fill="#94A3B8" font-weight="600">📍 Location</text>
-        <text y="18" class="font-sans" font-size="12.5" fill="#F8FAFC" font-weight="600">El Jadida, Morocco 🇲🇦</text>
-      </g>
-
-      <!-- Education -->
-      <g transform="translate(260, 0)">
-        <text class="font-sans" font-size="12" fill="#94A3B8" font-weight="600">🎓 Education</text>
-        <text y="18" class="font-sans" font-size="12.5" fill="#F8FAFC" font-weight="600">Bachelor in CS • <tspan fill="#38BDF8">Master's Student (IMI)</tspan></text>
+        <text y="18" class="font-sans" font-size="12.5" fill="#F8FAFC" font-weight="600">Morocco 🇲🇦</text>
       </g>
 
       <!-- Row 2: Current Position -->
