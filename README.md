@@ -1,7 +1,7 @@
 <!-- HERO BANNER (DARK/LIGHT MODE SYNCHRONIZED) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/dark.svg?v=13#gh-dark-mode-only" alt="Kamal AASSAB - Full Stack Web &amp; AI Developer" width="100%" />
-  <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/light.svg?v=13#gh-light-mode-only" alt="Kamal AASSAB - Full Stack Web &amp; AI Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/dark.svg?v=14#gh-dark-mode-only" alt="Kamal AASSAB - Full Stack Web &amp; AI Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/light.svg?v=14#gh-light-mode-only" alt="Kamal AASSAB - Full Stack Web &amp; AI Developer" width="100%" />
 </p>
 
 <br />
