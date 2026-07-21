@@ -91,9 +91,15 @@ Focus Areas:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  &nbsp;
+  <a href="https://framer.com/motion" target="_blank">
+    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/framermotion.svg" height="28" alt="Framer Motion" title="Framer Motion" />
+  </a>
+  &nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/UI" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Pure_SVG_Animations-7C3AED?style=for-the-badge&logo=svg&logoColor=white" alt="SVG Animations" />
 </div>
 
