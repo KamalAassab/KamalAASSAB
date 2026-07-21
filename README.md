@@ -54,6 +54,7 @@ Focus Areas:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,html,css,nodejs,python,postgres,mysql,docker,git,github,vercel,figma" alt="Tech Stack Icons" />
   </a>
+  <img src="https://cdn.simpleicons.org/sap/008FD3" height="48" alt="SAP Logo" title="SAP" />
 </div>
 
 <br />
