@@ -12,7 +12,7 @@
 <!-- QUICK LINKS / SOCIAL BADGES -->
 <div align="center">
   <a href="https://kamal-aassab.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/portfolio.svg" height="42" alt="Portfolio" title="Portfolio" />
+    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/portfolio.svg?v=3" height="42" alt="Portfolio" title="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/kamalaassab" target="_blank">
