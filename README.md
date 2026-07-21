@@ -90,17 +90,25 @@ Focus Areas:
 ### 🎨 UI/UX Design & Animated Engineering
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  &nbsp;
-  <a href="https://framer.com/motion" target="_blank">
-    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/framermotion.svg" height="28" alt="Framer Motion" title="Framer Motion" />
+  <a href="https://figma.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/figma.svg" height="42" alt="Figma" title="Figma" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/UI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pure_SVG_Animations-7C3AED?style=for-the-badge&logo=svg&logoColor=white" alt="SVG Animations" />
+  &nbsp;&nbsp;
+  <a href="https://framer.com/motion" target="_blank">
+    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/framermotion.svg" height="42" alt="Framer Motion" title="Framer Motion" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/tailwindcss.svg" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ui.shadcn.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/shadcnui.svg" height="42" alt="Shadcn/UI" title="Shadcn/UI" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/SVG" target="_blank">
+    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/svganimations.svg" height="42" alt="SVG Animations" title="Pure SVG Animations" />
+  </a>
 </div>
 
 <br />
