@@ -103,7 +103,7 @@ Focus Areas:
   </a>
   &nbsp;&nbsp;
   <a href="https://ui.shadcn.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/shadcnui.svg?v=2" height="42" alt="Shadcn/UI" title="Shadcn/UI" />
+    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/shadcnui.svg?v=10" height="42" alt="Shadcn/UI" title="Shadcn/UI" />
   </a>
   &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/SVG" target="_blank">
