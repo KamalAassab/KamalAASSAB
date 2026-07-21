@@ -1,9 +1,9 @@
 <!-- HERO BANNER (DARK/LIGHT MODE SYNCHRONIZED) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/main/light.svg">
-    <img alt="Kamal AASSAB - Full Stack Web & AI Developer" src="https://raw.githubusercontent.com/KamalAassab/KamalAassab/main/dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/main/dark.svg?v=5">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/main/light.svg?v=5">
+    <img alt="Kamal AASSAB - Full Stack Web & AI Developer" src="https://raw.githubusercontent.com/KamalAassab/KamalAassab/main/dark.svg?v=5" width="100%">
   </picture>
 </div>
 
