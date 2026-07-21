@@ -114,21 +114,21 @@ Focus Areas:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamalAassab&theme=2077">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamalAassab&theme=default">
-    <img alt="Kamal's Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamalAassab&theme=2077" height="150" />
+    <img alt="Kamal's Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamalAassab&theme=2077" width="31%" />
   </picture>
   &nbsp;
   <!-- Profile Summary Stats Card -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KamalAassab&theme=2077">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KamalAassab&theme=default">
-    <img alt="Kamal's GitHub Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KamalAassab&theme=2077" height="150" />
+    <img alt="Kamal's GitHub Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KamalAassab&theme=2077" width="31%" />
   </picture>
   &nbsp;
   <!-- Profile Summary Repos Per Language Card -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KamalAassab&theme=2077">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KamalAassab&theme=default">
-    <img alt="Kamal's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KamalAassab&theme=2077" height="150" />
+    <img alt="Kamal's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KamalAassab&theme=2077" width="31%" />
   </picture>
 </div>
 
