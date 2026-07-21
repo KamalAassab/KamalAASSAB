@@ -61,13 +61,13 @@ Focus Areas:
     <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mysql,docker,git,github,vercel&perline=8" alt="Backend & DevOps Tech Stack" />
   </a>
   <br /><br />
-  <!-- AI & Enterprise Systems -->
-  <a href="https://www.anthropic.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/claude.svg" height="42" alt="Claude AI Logo" title="Claude AI by Anthropic" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Enterprise Systems & AI Tools -->
   <a href="https://www.sap.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="42" alt="SAP Logo" title="SAP Enterprise System" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://claude.ai" target="_blank">
+    <img src="https://cdn.simpleicons.org/claude/D97757" height="42" alt="Claude AI" title="Claude AI" />
   </a>
 </div>
 
@@ -82,7 +82,7 @@ Focus Areas:
   | **Frontend & UI** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap, HTML5, CSS3, Framer Motion, Shadcn/UI |
   | **Backend & Databases** | Node.js, Python, PostgreSQL, Neon, MySQL, REST APIs |
   | **Enterprise & Tools** | SAP (CAPEX Operations), Docker, Git, GitHub, Vercel, Figma |
-  | **AI & Automation** | Claude AI (Anthropic), AI Automations, Prompt Engineering, Business Workflow Design |
+  | **AI & Automation** | Claude AI, AI Automations, Prompt Engineering, Business Workflow Design |
 </details>
 
 ---
