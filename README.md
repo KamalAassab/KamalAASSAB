@@ -1,11 +1,8 @@
 <!-- HERO BANNER (DARK/LIGHT MODE SYNCHRONIZED) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/dark.svg?v=10#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/light.svg?v=10#gh-light-mode-only">
-    <img alt="Kamal AASSAB - Full Stack Web & AI Developer" src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/dark.svg?v=10#gh-dark-mode-only" width="100%">
-  </picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/dark.svg?v=11#gh-dark-mode-only" alt="Kamal AASSAB - Full Stack Web &amp; AI Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/light.svg?v=11#gh-light-mode-only" alt="Kamal AASSAB - Full Stack Web &amp; AI Developer" width="100%" />
+</p>
 
 <br />
 
