@@ -14,12 +14,6 @@
 
 ###
 
-<div>
-  <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20there!%20%F0%9F%A4%99&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt" />
-</div>
-
-###
-
 <br clear="both">
 
 <h4 align="center">I'm Kamal, a skilled frontend developer with 1+ years of experience. I'm highly proficient in the core technologies that power modern web development, including React, TypeScript/JavaScript, Next.js, and Tailwind CSS.</h4>
@@ -61,14 +55,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/5g0ch9ixazh6qb0make87ojpf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5g0ch9ixazh6qb0make87ojpf&count=5&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <a href="https://linkedin.com/in/kamalaassab" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
@@ -81,12 +67,6 @@
   <a href="https://www.behance.net/k872" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo" />
   </a>
-</div>
-
-###
-
-<div>
-  <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Nice%20to%20meet%20you%20!&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
 
 ###
