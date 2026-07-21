@@ -12,19 +12,19 @@
 <!-- QUICK LINKS / SOCIAL BADGES -->
 <div align="center">
   <a href="https://kamal-aassab.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-kamal--aassab.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/portfolio.svg" height="42" alt="Portfolio" title="Portfolio" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/kamalaassab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/linkedin.svg" height="42" alt="LinkedIn" title="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:kamalaassab2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/email.svg" height="42" alt="Email" title="Email" />
   </a>
-  <a href="https://www.behance.net/k872" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/its.urky" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/icons/instagram.svg" height="42" alt="Instagram" title="Instagram" />
   </a>
 </div>
 
