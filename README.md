@@ -38,9 +38,6 @@
 Name: Kamal AASSAB
 Location: Morocco 🇲🇦
 Role: Full Stack Web Developer & AI Automation Builder
-Education:
-  - Bachelor in Computer Science
-  - Master's Student — Ingénierie des Méthodes Informatiques (IMI)
 Current Position: Financial & CAPEX Operations (SAP) @ EMAPHOS / OCP Group
 Focus Areas:
   - Building Premium Web Applications & SaaS
