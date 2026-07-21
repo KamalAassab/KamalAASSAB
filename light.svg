@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1180 610" width="1180" height="610" fill="none">
   <defs>
     <!-- Background Gradient -->
     <radialGradient id="bgGradLight" cx="50%" cy="50%" r="75%">
@@ -186,13 +186,13 @@
     </circle>
   </g>
 
-    <!-- =================================================== -->
-  <!-- LEFT PANEL: PHOTO-GENERATED ASCII PORTRAIT CARD    -->
+      <!-- =================================================== -->
+  <!-- LEFT PANEL: PROFESSIONAL HIGH-CONTRAST PORTRAIT CARD -->
   <!-- =================================================== -->
   <g id="left-panel" transform="translate(30, 30)">
     <!-- Glass Container (Light) -->
     <rect width="410" height="550" rx="16" ry="16" fill="url(#panelGlassLight)" stroke="rgba(15, 23, 42, 0.08)" stroke-width="1" filter="url(#softShadowLight)"/>
-    <rect width="410" height="550" rx="16" ry="16" fill="none" stroke="url(#asciiGradientLight)" stroke-width="1" stroke-opacity="0.3"/>
+    <rect width="410" height="550" rx="16" ry="16" fill="none" stroke="url(#borderShimmerLight)" stroke-width="1" stroke-opacity="0.3"/>
 
     <!-- Terminal Header Bar (Light) -->
     <path d="M 0 16 A 16 16 0 0 1 16 0 L 394 0 A 16 16 0 0 1 410 16 L 410 38 L 0 38 Z" fill="#F1F5F9"/>
@@ -202,49 +202,68 @@
     <circle cx="36" cy="19" r="5.5" fill="#F59E0B"/>
     <circle cx="52" cy="19" r="5.5" fill="#10B981"/>
     <!-- Title -->
-    <text x="205" y="23" font-size="11" fill="#475569" class="font-mono" text-anchor="middle" font-weight="600">kamal_aassab.ascii</text>
+    <text x="205" y="23" font-size="11" fill="#475569" class="font-mono" text-anchor="middle" font-weight="600">kamal_aassab.jpg</text>
 
-    <!-- Floating ASCII Container -->
+    <!-- Floating Avatar Frame Container -->
     <g transform="translate(0, 0)">
       <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="6s" repeatCount="indefinite" ease="in-out"/>
 
-      <!-- ASCII Text Matrix Generated From Photo -->
-      <g fill="url(#asciiGradientLight)" class="font-mono" font-size="10" font-weight="700" letter-spacing="0.5" >
-        <text x="32" y="62">â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”</text>
-        <text x="32" y="75">â”‚   SYS.ID // KAMAL_AASSAB              â”‚</text>
-        <text x="32" y="88">â”‚   ROLE   // FULLSTACK &amp; AI BUILDER     â”‚</text>
-        <text x="32" y="101">â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤</text>
-        <text x="32" y="116">â”‚            .-=*++=+-..                â”‚</text>
-        <text x="32" y="129">â”‚          =#%%%##%%%%%%*.              â”‚</text>
-        <text x="32" y="142">â”‚         +%###*######%%%%-             â”‚</text>
-        <text x="32" y="155">â”‚         +#*-:..:-:::-+###             â”‚</text>
-        <text x="32" y="168">â”‚         :+...      . .:*+             â”‚</text>
-        <text x="32" y="181">â”‚          -:--=-..:---:.=              â”‚</text>
-        <text x="32" y="194">â”‚          .::-=-..--=-:::              â”‚</text>
-        <text x="32" y="207">â”‚         .........::...::.             â”‚</text>
-        <text x="32" y="220">â”‚         .:....:.::....:::             â”‚</text>
-        <text x="32" y="233">â”‚          .-.:-=--=-:.::.              â”‚</text>
-        <text x="32" y="246">â”‚           ---::.::-:-=.               â”‚</text>
-        <text x="32" y="259">â”‚            -*=-==-=+=-                â”‚</text>
-        <text x="32" y="272">â”‚             +##*#**+::                â”‚</text>
-        <text x="32" y="285">â”‚             .:----:..:.               â”‚</text>
-        <text x="32" y="298">â”‚             :.........:::.            â”‚</text>
-        <text x="32" y="311">â”‚            .::......:::.              â”‚</text>
-        <text x="32" y="324">â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤</text>
-        <text x="32" y="337">â”‚  &gt; NEXT.JS  &gt; REACT  &gt; PYTHON  &gt; SAP  â”‚</text>
-        <text x="32" y="350">â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜</text>
+      <!-- Ambient Glow Behind Avatar (Light) -->
+      <circle cx="205" cy="200" r="140" fill="url(#orbBlueLight)" opacity="0.6"/>
+
+      <!-- Rotating Tech Rings (Light) -->
+      <circle cx="205" cy="200" r="142" fill="none" stroke="#2563EB" stroke-width="1.5" stroke-dasharray="10 8" opacity="0.5">
+        <animateTransform attributeName="transform" type="rotate" from="0 205 200" to="360 205 200" dur="25s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="205" cy="200" r="148" fill="none" stroke="#06B6D4" stroke-width="1" stroke-dasharray="4 12" opacity="0.5">
+        <animateTransform attributeName="transform" type="rotate" from="360 205 200" to="0 205 200" dur="18s" repeatCount="indefinite"/>
+      </circle>
+
+      <!-- Main Glowing Border Ring (Light) -->
+      <circle cx="205" cy="200" r="133" fill="none" stroke="url(#borderShimmerLight)" stroke-width="5" filter="url(#glowLight)"/>
+
+      <!-- Embedded High Contrast Profile Image -->
+      <image href="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/profile_picture.jpg" xlink:href="https://raw.githubusercontent.com/KamalAassab/KamalAASSAB/main/profile_picture.jpg" x="72" y="67" width="266" height="266" preserveAspectRatio="xMidYMin slice" clip-path="url(#avatarClipLight)"/>
+
+      <!-- Inner Vignette Ring (Light) -->
+      <circle cx="205" cy="200" r="133" fill="none" stroke="rgba(15, 23, 42, 0.15)" stroke-width="2"/>
+
+      <!-- Floating Tech Overlay Badges (Light) -->
+      <!-- Badge 1: Next.js & React -->
+      <g transform="translate(30, 75)">
+        <rect width="115" height="26" rx="13" ry="13" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2" filter="url(#softShadowLight)"/>
+        <text x="57.5" y="17" class="font-mono" font-size="10.5" fill="#2563EB" text-anchor="middle" font-weight="700">âš¡ NEXT.JS &amp; REACT</text>
+      </g>
+      <!-- Badge 2: AI Automations -->
+      <g transform="translate(265, 300)">
+        <rect width="115" height="26" rx="13" ry="13" fill="#FFFFFF" stroke="#0D9488" stroke-width="1.2" filter="url(#softShadowLight)"/>
+        <text x="57.5" y="17" class="font-mono" font-size="10.5" fill="#0D9488" text-anchor="middle" font-weight="700">ðŸ¤– AI BUILDER</text>
       </g>
 
       <!-- Sub-Panel Information Box (Light) -->
-      <rect x="25" y="365" width="360" height="115" rx="10" ry="10" fill="#F8FAFC" stroke="rgba(37, 99, 235, 0.2)" stroke-width="1"/>
-      <g class="font-mono" font-size="10.5">
-        <text x="40" y="388" fill="#059669" font-weight="700">SYS.ID // KAMAL_AASSAB ðŸ‡²ðŸ‡¦</text>
-        <text x="40" y="408" fill="#475569">[âœ“] Role: <tspan fill="#0F172A" font-weight="600">Full Stack &amp; AI Builder</tspan></text>
-        <text x="40" y="426" fill="#475569">[âœ“] Company: <tspan fill="#059669" font-weight="600">EMAPHOS / OCP Group</tspan></text>
-        <text x="40" y="444" fill="#475569">[âœ“] Focus: <tspan fill="#2563EB" font-weight="600">Premium Web Apps &amp; SaaS</tspan></text>
+      <rect x="25" y="355" width="360" height="125" rx="12" ry="12" fill="#F8FAFC" stroke="rgba(37, 99, 235, 0.2)" stroke-width="1"/>
+      <g class="font-mono" font-size="11">
+        <text x="40" y="380" fill="#059669" font-weight="700">SYS.ID // KAMAL_AASSAB ðŸ‡²ðŸ‡¦</text>
+        <text x="40" y="402" fill="#475569">[âœ“] Role: <tspan fill="#0F172A" font-weight="600">Full Stack &amp; AI Builder</tspan></text>
+        <text x="40" y="422" fill="#475569">[âœ“] Company: <tspan fill="#059669" font-weight="600">EMAPHOS / OCP Group</tspan></text>
+        <text x="40" y="442" fill="#475569">[âœ“] Focus: <tspan fill="#2563EB" font-weight="600">Premium Web Apps &amp; SaaS</tspan></text>
         <text x="40" y="462" fill="#0284C7" font-weight="700">&gt; Status: <tspan fill="#059669">AVAILABLE FOR PROJECTS</tspan> <tspan fill="#0F172A">_</tspan></text>
       </g>
     </g>
+
+    <!-- Bottom Status Bar (Light) -->
+    <rect x="25" y="498" width="360" height="32" rx="6" ry="6" fill="#F1F5F9" stroke="rgba(15, 23, 42, 0.08)"/>
+    <circle cx="42" cy="514" r="4" fill="#10B981" filter="url(#glowLight)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="54" y="518" class="font-mono" font-size="10.5" fill="#334155" font-weight="600">LOC: MOROCCO ðŸ‡²ðŸ‡¦</text>
+    <text x="368" y="518" class="font-mono" font-size="10.5" fill="#2563EB" text-anchor="end" font-weight="600">ONLINE</text>
+
+    <!-- Moving Scanline Overlay Light -->
+    <rect x="0" y="0" width="410" height="40" fill="url(#scanlineGradLight)">
+      <animate attributeName="y" values="0;510;0" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 
     <!-- Bottom Status Bar (Light) -->
     <rect x="25" y="498" width="360" height="32" rx="6" ry="6" fill="#F1F5F9" stroke="rgba(15, 23, 42, 0.08)"/>
