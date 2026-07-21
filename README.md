@@ -110,11 +110,11 @@ Focus Areas:
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- Streak Stats Card -->
+  <!-- Profile Details Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=KamalAassab&theme=2077&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=KamalAassab&theme=default&hide_border=false">
-    <img alt="Kamal's GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=KamalAassab&theme=2077&hide_border=false" height="150" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamalAassab&theme=2077">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamalAassab&theme=default">
+    <img alt="Kamal's Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamalAassab&theme=2077" height="150" />
   </picture>
   &nbsp;
   <!-- Profile Summary Stats Card -->
