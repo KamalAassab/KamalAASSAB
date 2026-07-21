@@ -232,21 +232,21 @@
       <!-- Badge 1: Next.js & React -->
       <g transform="translate(30, 75)">
         <rect width="115" height="26" rx="13" ry="13" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2" filter="url(#softShadowLight)"/>
-        <text x="57.5" y="17" class="font-mono" font-size="10.5" fill="#2563EB" text-anchor="middle" font-weight="700">âš¡ NEXT.JS &amp; REACT</text>
+        <text x="57.5" y="17" class="font-mono" font-size="10.5" fill="#2563EB" text-anchor="middle" font-weight="700"> NEXT.JS &amp; REACT</text>
       </g>
       <!-- Badge 2: AI Automations -->
       <g transform="translate(265, 300)">
         <rect width="115" height="26" rx="13" ry="13" fill="#FFFFFF" stroke="#0D9488" stroke-width="1.2" filter="url(#softShadowLight)"/>
-        <text x="57.5" y="17" class="font-mono" font-size="10.5" fill="#0D9488" text-anchor="middle" font-weight="700">ðŸ¤– AI BUILDER</text>
+        <text x="57.5" y="17" class="font-mono" font-size="10.5" fill="#0D9488" text-anchor="middle" font-weight="700"> AI BUILDER</text>
       </g>
 
       <!-- Sub-Panel Information Box (Light) -->
       <rect x="25" y="355" width="360" height="125" rx="12" ry="12" fill="#F8FAFC" stroke="rgba(37, 99, 235, 0.2)" stroke-width="1"/>
       <g class="font-mono" font-size="11">
-        <text x="40" y="380" fill="#059669" font-weight="700">SYS.ID // KAMAL_AASSAB ðŸ‡²ðŸ‡¦</text>
-        <text x="40" y="402" fill="#475569">[âœ“] Role: <tspan fill="#0F172A" font-weight="600">Full Stack &amp; AI Builder</tspan></text>
-        <text x="40" y="422" fill="#475569">[âœ“] Company: <tspan fill="#059669" font-weight="600">EMAPHOS / OCP Group</tspan></text>
-        <text x="40" y="442" fill="#475569">[âœ“] Focus: <tspan fill="#2563EB" font-weight="600">Premium Web Apps &amp; SaaS</tspan></text>
+        <text x="40" y="380" fill="#059669" font-weight="700">SYS.ID // KAMAL_AASSAB MA</text>
+        <text x="40" y="402" fill="#475569">[v] Role: <tspan fill="#0F172A" font-weight="600">Full Stack &amp; AI Builder</tspan></text>
+        <text x="40" y="422" fill="#475569">[v] Company: <tspan fill="#059669" font-weight="600">EMAPHOS / OCP Group</tspan></text>
+        <text x="40" y="442" fill="#475569">[v] Focus: <tspan fill="#2563EB" font-weight="600">Premium Web Apps &amp; SaaS</tspan></text>
         <text x="40" y="462" fill="#0284C7" font-weight="700">&gt; Status: <tspan fill="#059669">AVAILABLE FOR PROJECTS</tspan> <tspan fill="#0F172A">_</tspan></text>
       </g>
     </g>
@@ -256,7 +256,7 @@
     <circle cx="42" cy="514" r="4" fill="#10B981" filter="url(#glowLight)">
       <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="54" y="518" class="font-mono" font-size="10.5" fill="#334155" font-weight="600">LOC: MOROCCO ðŸ‡²ðŸ‡¦</text>
+    <text x="54" y="518" class="font-mono" font-size="10.5" fill="#334155" font-weight="600">LOC: MOROCCO MA</text>
     <text x="368" y="518" class="font-mono" font-size="10.5" fill="#2563EB" text-anchor="end" font-weight="600">ONLINE</text>
 
     <!-- Moving Scanline Overlay Light -->
@@ -270,7 +270,7 @@
     <circle cx="42" cy="514" r="4" fill="#10B981" filter="url(#glowLight)">
       <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="54" y="518" class="font-mono" font-size="10.5" fill="#334155" font-weight="600">LOC: MOROCCO ðŸ‡²ðŸ‡¦</text>
+    <text x="54" y="518" class="font-mono" font-size="10.5" fill="#334155" font-weight="600">LOC: MOROCCO MA</text>
     <text x="368" y="518" class="font-mono" font-size="10.5" fill="#2563EB" text-anchor="end" font-weight="600">ONLINE</text>
 
     <!-- Moving Scanline Overlay Light -->
@@ -284,7 +284,7 @@
     <circle cx="42" cy="514" r="4" fill="#10B981" filter="url(#glowLight)">
       <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="54" y="518" class="font-mono" font-size="10.5" fill="#334155" font-weight="600">LOC: MOROCCO 🇲🇦</text>
+    <text x="54" y="518" class="font-mono" font-size="10.5" fill="#334155" font-weight="600">LOC: MOROCCO </text>
     <text x="368" y="518" class="font-mono" font-size="10.5" fill="#2563EB" text-anchor="end" font-weight="600">ONLINE</text>
 
     <!-- Moving Scanline Overlay Light -->
@@ -317,7 +317,7 @@
     <!-- 1. GREETING & NAME -->
     <g transform="translate(30, 68)">
       <text font-size="25" class="font-sans" font-weight="800" fill="#0F172A">
-        Hi 👋 I'm <tspan fill="url(#headingGradLight)">Kamal AASSAB</tspan>
+        Hi  I'm <tspan fill="url(#headingGradLight)">Kamal AASSAB</tspan>
       </text>
     </g>
 
@@ -367,21 +367,21 @@
     <g transform="translate(30, 148)">
       <!-- Row 1: Location -->
       <g transform="translate(0, 0)">
-        <text class="font-sans" font-size="12" fill="#64748B" font-weight="600">📍 Location</text>
-        <text y="18" class="font-sans" font-size="12.5" fill="#0F172A" font-weight="600">Morocco 🇲🇦</text>
+        <text class="font-sans" font-size="12" fill="#64748B" font-weight="600"> Location</text>
+        <text y="18" class="font-sans" font-size="12.5" fill="#0F172A" font-weight="600">Morocco </text>
       </g>
 
       <!-- Row 2: Current Position -->
       <g transform="translate(0, 48)">
-        <text class="font-sans" font-size="12" fill="#64748B" font-weight="600">💼 Current Position</text>
+        <text class="font-sans" font-size="12" fill="#64748B" font-weight="600"> Current Position</text>
         <text y="18" class="font-sans" font-size="12.5" fill="#0F172A" font-weight="600">Financial &amp; CAPEX Operations (SAP) <tspan fill="#059669">@ EMAPHOS / OCP Group</tspan></text>
       </g>
 
       <!-- Row 3: Current Focus -->
       <g transform="translate(0, 96)">
-        <text class="font-sans" font-size="12" fill="#64748B" font-weight="600">🎯 Current Focus</text>
+        <text class="font-sans" font-size="12" fill="#64748B" font-weight="600"> Current Focus</text>
         <text y="18" class="font-sans" font-size="12" fill="#334155" font-weight="500">
-          Building Premium Websites • AI Automations • Business Systems • SaaS • Modern UI/UX • Next.js
+          Building Premium Websites  AI Automations  Business Systems  SaaS  Modern UI/UX  Next.js
         </text>
       </g>
 
@@ -389,13 +389,13 @@
       <g transform="translate(0, 142)">
         <!-- Portfolio -->
         <g>
-          <text class="font-sans" font-size="12" fill="#64748B" font-weight="600">🌐 Portfolio</text>
+          <text class="font-sans" font-size="12" fill="#64748B" font-weight="600"> Portfolio</text>
           <rect y="7" width="225" height="24" rx="5" ry="5" fill="rgba(37, 99, 235, 0.08)" stroke="rgba(37, 99, 235, 0.25)"/>
           <text x="10" y="23" class="font-mono" font-size="11.5" fill="#2563EB" font-weight="600">kamal-aassab.vercel.app</text>
         </g>
         <!-- Email -->
         <g transform="translate(260, 0)">
-          <text class="font-sans" font-size="12" fill="#64748B" font-weight="600">📧 Email</text>
+          <text class="font-sans" font-size="12" fill="#64748B" font-weight="600"> Email</text>
           <rect y="7" width="180" height="24" rx="5" ry="5" fill="rgba(124, 58, 237, 0.08)" stroke="rgba(124, 58, 237, 0.25)"/>
           <text x="10" y="23" class="font-mono" font-size="10" fill="#7C3AED" font-weight="600">kamalaassab2002@gmail.com</text>
         </g>
