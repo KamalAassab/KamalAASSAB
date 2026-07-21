@@ -63,7 +63,7 @@ Focus Areas:
   <br /><br />
   <!-- Enterprise Systems -->
   <a href="https://www.sap.com" target="_blank">
-    <img src="https://img.shields.io/badge/SAP_ERP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Enterprise System" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="42" alt="SAP Logo" title="SAP Enterprise System" />
   </a>
 </div>
 
