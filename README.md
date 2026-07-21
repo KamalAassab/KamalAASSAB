@@ -36,7 +36,7 @@
 
 ```yaml
 Name: Kamal AASSAB
-Location: El Jadida, Morocco 🇲🇦
+Location: Morocco 🇲🇦
 Role: Full Stack Web Developer & AI Automation Builder
 Education:
   - Bachelor in Computer Science
@@ -44,6 +44,7 @@ Education:
 Current Position: Financial & CAPEX Operations (SAP) @ EMAPHOS / OCP Group
 Focus Areas:
   - Building Premium Web Applications & SaaS
+  - Building High-Quality Fullstack Apps & Landing Pages
   - Enterprise Workflow Automations & AI Integration
   - Modern UI/UX Design & Next.js Ecosystems
 ```
