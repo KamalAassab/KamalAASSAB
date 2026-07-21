@@ -1,0 +1,556 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#0B132B"/>
+      <stop offset="60%" stop-color="#030712"/>
+      <stop offset="100%" stop-color="#01040D"/>
+    </radialGradient>
+
+    <!-- Ambient Glowing Orbs -->
+    <radialGradient id="orbViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbEmerald" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Panel Glass Backdrops -->
+    <linearGradient id="panelGlass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#1E293B" stop-opacity="0.45"/>
+    </linearGradient>
+
+    <!-- Animated Shimmer Border Gradient -->
+    <linearGradient id="borderShimmer" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED; #22D3EE; #10B981; #7C3AED" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE; #10B981; #7C3AED; #22D3EE" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#10B981">
+        <animate attributeName="stop-color" values="#10B981; #7C3AED; #22D3EE; #10B981" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- ASCII Animated Color Shift -->
+    <linearGradient id="asciiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE; #7C3AED; #10B981; #22D3EE" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#A855F7">
+        <animate attributeName="stop-color" values="#A855F7; #10B981; #22D3EE; #A855F7" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#10B981">
+        <animate attributeName="stop-color" values="#10B981; #22D3EE; #7C3AED; #10B981" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Heading Text Gradient -->
+    <linearGradient id="headingGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+
+    <!-- Subtitle Role Gradient -->
+    <linearGradient id="roleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <!-- Skill Pill Background & Glow -->
+    <linearGradient id="pillBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="pillBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(34, 211, 238, 0.4)"/>
+      <stop offset="100%" stop-color="rgba(124, 58, 237, 0.4)"/>
+    </linearGradient>
+
+    <!-- Filters for Glow & Glass Shadow -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+
+    <!-- Grid Pattern Overlay -->
+    <pattern id="cyberGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1"/>
+      <circle cx="30" cy="30" r="1" fill="#22D3EE" fill-opacity="0.15"/>
+    </pattern>
+
+    <!-- Typing Clips for 7 Phrases -->
+    <!-- Phrase 1: Full Stack Web Developer (len ~24) -->
+    <clipPath id="typeClip1">
+      <rect x="585" y="105" height="30" width="0">
+        <animate attributeName="width" values="0; 230; 230; 0; 0" keyTimes="0; 0.08; 0.12; 0.14; 1" dur="21s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <!-- Phrase 2: React & Next.js Developer (len ~24) -->
+    <clipPath id="typeClip2">
+      <rect x="585" y="105" height="30" width="0">
+        <animate attributeName="width" values="0; 0; 240; 240; 0; 0" keyTimes="0; 0.14; 0.22; 0.26; 0.28; 1" dur="21s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <!-- Phrase 3: AI Automation Builder (len ~21) -->
+    <clipPath id="typeClip3">
+      <rect x="585" y="105" height="30" width="0">
+        <animate attributeName="width" values="0; 0; 210; 210; 0; 0" keyTimes="0; 0.28; 0.36; 0.40; 0.42; 1" dur="21s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <!-- Phrase 4: SaaS Developer (len ~14) -->
+    <clipPath id="typeClip4">
+      <rect x="585" y="105" height="30" width="0">
+        <animate attributeName="width" values="0; 0; 160; 160; 0; 0" keyTimes="0; 0.42; 0.50; 0.54; 0.56; 1" dur="21s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <!-- Phrase 5: UI/UX Enthusiast (len ~16) -->
+    <clipPath id="typeClip5">
+      <rect x="585" y="105" height="30" width="0">
+        <animate attributeName="width" values="0; 0; 175; 175; 0; 0" keyTimes="0; 0.56; 0.64; 0.68; 0.70; 1" dur="21s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <!-- Phrase 6: Business Workflow Engineer (len ~26) -->
+    <clipPath id="typeClip6">
+      <rect x="585" y="105" height="30" width="0">
+        <animate attributeName="width" values="0; 0; 265; 265; 0; 0" keyTimes="0; 0.70; 0.78; 0.82; 0.84; 1" dur="21s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <!-- Phrase 7: Open Source Learner (len ~18) -->
+    <clipPath id="typeClip7">
+      <rect x="585" y="105" height="30" width="0">
+        <animate attributeName="width" values="0; 0; 190; 190; 0; 0" keyTimes="0; 0.84; 0.92; 0.96; 0.98; 1" dur="21s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <!-- Scanline Mask -->
+    <linearGradient id="scanlineGrad" x1="0" y1="0" x2="0" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .font-mono { font-family: 'Fira Code', SFMono-Regular, Consolas, Monaco, 'Courier New', monospace; }
+    .font-sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .pill-text { font-size: 11px; font-weight: 600; fill: #E2E8F0; }
+    .label-muted { font-size: 12px; fill: #94A3B8; font-weight: 500; }
+    .val-white { font-size: 12.5px; fill: #F8FAFC; font-weight: 600; }
+    .val-accent { font-size: 12.5px; fill: #38BDF8; font-weight: 600; }
+    
+    /* Hover micro animations simulate glow on pills */
+    .skill-pill { transition: transform 0.2s ease; cursor: pointer; }
+    .skill-pill:hover { transform: translateY(-2px); }
+  </style>
+
+  <!-- Base Canvas Background -->
+  <rect width="1180" height="610" rx="20" ry="20" fill="url(#bgGrad)"/>
+  <rect width="1180" height="610" rx="20" ry="20" fill="url(#cyberGrid)"/>
+
+  <!-- Ambient Animated Orbs -->
+  <circle cx="200" cy="150" r="280" fill="url(#orbViolet)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 40,30; 0,0" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="950" cy="450" r="320" fill="url(#orbCyan)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; -50,-40; 0,0" dur="15s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="280" r="220" fill="url(#orbEmerald)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 30,-30; 0,0" dur="10s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Outer Shimmer Border -->
+  <rect x="2" y="2" width="1176" height="606" rx="19" ry="19" fill="none" stroke="url(#borderShimmer)" stroke-width="2.5" filter="url(#glow)"/>
+
+  <!-- Animated Floating Particles -->
+  <g opacity="0.6">
+    <circle cx="120" cy="80" r="1.5" fill="#22D3EE">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="520" r="2" fill="#7C3AED">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 15,-15; 0,0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="140" r="1.8" fill="#10B981">
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="3.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0; -10,20; 0,0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="720" cy="560" r="1.5" fill="#38BDF8">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- =================================================== -->
+  <!-- LEFT PANEL: ANIMATED ASCII PORTRAIT & SYSTEM STATUS -->
+  <!-- =================================================== -->
+  <g id="left-panel" transform="translate(30, 30)">
+    <!-- Glass Container -->
+    <rect width="410" height="550" rx="16" ry="16" fill="url(#panelGlass)" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" filter="url(#softShadow)"/>
+    <rect width="410" height="550" rx="16" ry="16" fill="none" stroke="url(#asciiGradient)" stroke-width="1" stroke-opacity="0.3"/>
+
+    <!-- Terminal Header Bar -->
+    <path d="M 0 16 A 16 16 0 0 1 16 0 L 394 0 A 16 16 0 0 1 410 16 L 410 38 L 0 38 Z" fill="#090D16" fill-opacity="0.8"/>
+    <line x1="0" y1="38" x2="410" y2="38" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1"/>
+    <!-- Window Control Dots -->
+    <circle cx="20" cy="19" r="5.5" fill="#EF4444"/>
+    <circle cx="36" cy="19" r="5.5" fill="#F59E0B"/>
+    <circle cx="52" cy="19" r="5.5" fill="#10B981"/>
+    <!-- Title -->
+    <text x="205" y="23" font-size="11" fill="#94A3B8" class="font-mono" text-anchor="middle" font-weight="600">kamal_portrait.ascii</text>
+
+    <!-- Floating ASCII Container -->
+    <g transform="translate(0, 0)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="5s" repeatCount="indefinite" ease="in-out"/>
+
+      <!-- ASCII Text Matrix (Cyberpunk Face & Badge Frame) -->
+      <g fill="url(#asciiGradient)" class="font-mono" font-size="9.5" font-weight="700" letter-spacing="0.5">
+        <!-- Line-by-line reveal animation wrapper -->
+        <text x="25" y="65">┌───────────────────────────────────────┐</text>
+        <text x="25" y="79">│   SYS.ID // KAMAL_AASSAB              │</text>
+        <text x="25" y="93">│   ROLE   // FULLSTACK &amp; AI BUILDER     │</text>
+        <text x="25" y="107">├───────────────────────────────────────┤</text>
+        <text x="25" y="123">│                                       │</text>
+        <text x="25" y="137">│             .---------.               │</text>
+        <text x="25" y="151">│            /   _____   \              │</text>
+        <text x="25" y="165">│           |   /     \   |             │</text>
+        <text x="25" y="179">│           |  |  (o)  |  |             │</text>
+        <text x="25" y="193">│           |   \  ^  /   |             │</text>
+        <text x="25" y="207">│            \   '---'   /              │</text>
+        <text x="25" y="221">│             '---------'               │</text>
+        <text x="25" y="235">│            _/  |   |  \_              │</text>
+        <text x="25" y="249">│           /  | |   | |  \             │</text>
+        <text x="25" y="263">│          |  |  |   |  |  |            │</text>
+        <text x="25" y="277">│          |  |  |   |  |  |            │</text>
+        <text x="25" y="291">│                                       │</text>
+        <text x="25" y="305">├───────────────────────────────────────┤</text>
+        <text x="25" y="319">│  &gt; NEXT.JS  &gt; REACT  &gt; PYTHON  &gt; SAP  │</text>
+        <text x="25" y="333">│  &gt; MOROCCO 🇲🇦  &gt; OCP GROUP            │</text>
+        <text x="25" y="347">└───────────────────────────────────────┘</text>
+      </g>
+
+      <!-- Sub-Terminal Output Matrix Box -->
+      <rect x="25" y="370" width="360" height="110" rx="8" ry="8" fill="#070C16" fill-opacity="0.9" stroke="rgba(34, 211, 238, 0.2)" stroke-width="1"/>
+      <g class="font-mono" font-size="10.5">
+        <text x="40" y="393" fill="#10B981" font-weight="600">$ status --verbose</text>
+        <text x="40" y="413" fill="#94A3B8">[✓] CAPEX &amp; Financial Systems: SAP</text>
+        <text x="40" y="431" fill="#94A3B8">[✓] AI Automation Workflows: Active</text>
+        <text x="40" y="449" fill="#94A3B8">[✓] Open Source &amp; SaaS: Building</text>
+        <text x="40" y="467" fill="#22D3EE" font-weight="600">&gt; System state: OPTIMAL <tspan fill="#F8FAFC">_</tspan></text>
+      </g>
+    </g>
+
+    <!-- Bottom Status Bar -->
+    <rect x="25" y="498" width="360" height="32" rx="6" ry="6" fill="rgba(15, 23, 42, 0.9)" stroke="rgba(255, 255, 255, 0.08)"/>
+    <circle cx="42" cy="514" r="4" fill="#10B981" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="54" y="518" class="font-mono" font-size="10.5" fill="#CBD5E1" font-weight="600">LOC: EL JADIDA, MOROCCO 🇲🇦</text>
+    <text x="368" y="518" class="font-mono" font-size="10.5" fill="#38BDF8" text-anchor="end" font-weight="600">ONLINE</text>
+
+    <!-- Moving Scanline Overlay -->
+    <rect x="0" y="0" width="410" height="40" fill="url(#scanlineGrad)">
+      <animate attributeName="y" values="0;510;0" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- =================================================== -->
+  <!-- RIGHT PANEL: TERMINAL & INFORMATION DASHBOARD       -->
+  <!-- =================================================== -->
+  <g id="right-panel" transform="translate(465, 30)">
+    <!-- Glass Container -->
+    <rect width="685" height="550" rx="16" ry="16" fill="url(#panelGlass)" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" filter="url(#softShadow)"/>
+    <rect width="685" height="550" rx="16" ry="16" fill="none" stroke="url(#borderShimmer)" stroke-width="1" stroke-opacity="0.25"/>
+
+    <!-- Terminal Header Bar -->
+    <path d="M 0 16 A 16 16 0 0 1 16 0 L 669 0 A 16 16 0 0 1 685 16 L 685 38 L 0 38 Z" fill="#090D16" fill-opacity="0.8"/>
+    <line x1="0" y1="38" x2="685" y2="38" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1"/>
+    <!-- Window Control Dots -->
+    <circle cx="20" cy="19" r="5.5" fill="#EF4444"/>
+    <circle cx="36" cy="19" r="5.5" fill="#F59E0B"/>
+    <circle cx="52" cy="19" r="5.5" fill="#10B981"/>
+    <!-- Title & Badge -->
+    <text x="342" y="23" font-size="11" fill="#94A3B8" class="font-mono" text-anchor="middle" font-weight="600">kamal@dev-machine: ~ (zsh)</text>
+    <rect x="585" y="10" width="80" height="18" rx="4" ry="4" fill="rgba(16, 185, 129, 0.15)" stroke="rgba(16, 185, 129, 0.4)"/>
+    <text x="625" y="22" font-size="9.5" fill="#10B981" class="font-mono" text-anchor="middle" font-weight="700">PROFILE</text>
+
+    <!-- Main Content Area -->
+    <!-- 1. GREETING & NAME -->
+    <g transform="translate(30, 68)">
+      <text font-size="25" class="font-sans" font-weight="800" fill="#F8FAFC">
+        Hi 👋 I'm <tspan fill="url(#headingGrad)" filter="url(#glow)">Kamal AASSAB</tspan>
+      </text>
+    </g>
+
+    <!-- 2. ANIMATED ROLE TYPEWRITER -->
+    <g transform="translate(30, 98)">
+      <text class="font-mono" font-size="14" fill="#94A3B8" font-weight="600">&gt; I am a </text>
+
+      <!-- Phrase 1 -->
+      <g clip-path="url(#typeClip1)">
+        <text x="90" y="0" class="font-mono" font-size="14.5" fill="url(#roleGrad)" font-weight="700" filter="url(#glow)">Full Stack Web Developer</text>
+      </g>
+      <!-- Phrase 2 -->
+      <g clip-path="url(#typeClip2)">
+        <text x="90" y="0" class="font-mono" font-size="14.5" fill="url(#roleGrad)" font-weight="700" filter="url(#glow)">React &amp; Next.js Developer</text>
+      </g>
+      <!-- Phrase 3 -->
+      <g clip-path="url(#typeClip3)">
+        <text x="90" y="0" class="font-mono" font-size="14.5" fill="url(#roleGrad)" font-weight="700" filter="url(#glow)">AI Automation Builder</text>
+      </g>
+      <!-- Phrase 4 -->
+      <g clip-path="url(#typeClip4)">
+        <text x="90" y="0" class="font-mono" font-size="14.5" fill="url(#roleGrad)" font-weight="700" filter="url(#glow)">SaaS Developer</text>
+      </g>
+      <!-- Phrase 5 -->
+      <g clip-path="url(#typeClip5)">
+        <text x="90" y="0" class="font-mono" font-size="14.5" fill="url(#roleGrad)" font-weight="700" filter="url(#glow)">UI/UX Enthusiast</text>
+      </g>
+      <!-- Phrase 6 -->
+      <g clip-path="url(#typeClip6)">
+        <text x="90" y="0" class="font-mono" font-size="14.5" fill="url(#roleGrad)" font-weight="700" filter="url(#glow)">Business Workflow Engineer</text>
+      </g>
+      <!-- Phrase 7 -->
+      <g clip-path="url(#typeClip7)">
+        <text x="90" y="0" class="font-mono" font-size="14.5" fill="url(#roleGrad)" font-weight="700" filter="url(#glow)">Open Source Learner</text>
+      </g>
+
+      <!-- Blinking Cursor -->
+      <rect x="360" y="-12" width="8" height="16" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- Divider Line -->
+    <line x1="30" y1="130" x2="655" y2="130" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1"/>
+
+    <!-- 3. PERSONAL & PROFESSIONAL DETAILS GRID -->
+    <g transform="translate(30, 148)">
+      <!-- Row 1: Location & Position -->
+      <!-- Location -->
+      <g transform="translate(0, 0)">
+        <text class="font-sans" font-size="12" fill="#94A3B8" font-weight="600">📍 Location</text>
+        <text y="18" class="font-sans" font-size="12.5" fill="#F8FAFC" font-weight="600">El Jadida, Morocco 🇲🇦</text>
+      </g>
+
+      <!-- Education -->
+      <g transform="translate(260, 0)">
+        <text class="font-sans" font-size="12" fill="#94A3B8" font-weight="600">🎓 Education</text>
+        <text y="18" class="font-sans" font-size="12.5" fill="#F8FAFC" font-weight="600">Bachelor in CS • <tspan fill="#38BDF8">Master's Student (IMI)</tspan></text>
+      </g>
+
+      <!-- Row 2: Current Position -->
+      <g transform="translate(0, 48)">
+        <text class="font-sans" font-size="12" fill="#94A3B8" font-weight="600">💼 Current Position</text>
+        <text y="18" class="font-sans" font-size="12.5" fill="#F8FAFC" font-weight="600">Financial &amp; CAPEX Operations (SAP) <tspan fill="#34D399">@ EMAPHOS / OCP Group</tspan></text>
+      </g>
+
+      <!-- Row 3: Current Focus -->
+      <g transform="translate(0, 96)">
+        <text class="font-sans" font-size="12" fill="#94A3B8" font-weight="600">🎯 Current Focus</text>
+        <text y="18" class="font-sans" font-size="12" fill="#CBD5E1" font-weight="500">
+          Building Premium Websites • AI Automations • Business Systems • SaaS • Modern UI/UX • Next.js
+        </text>
+      </g>
+
+      <!-- Row 4: Portfolio & Email -->
+      <g transform="translate(0, 142)">
+        <!-- Portfolio -->
+        <g>
+          <text class="font-sans" font-size="12" fill="#94A3B8" font-weight="600">🌐 Portfolio</text>
+          <rect y="7" width="225" height="24" rx="5" ry="5" fill="rgba(34, 211, 238, 0.1)" stroke="rgba(34, 211, 238, 0.3)"/>
+          <text x="10" y="23" class="font-mono" font-size="11.5" fill="#38BDF8" font-weight="600">kamal-aassab.vercel.app</text>
+        </g>
+        <!-- Email -->
+        <g transform="translate(260, 0)">
+          <text class="font-sans" font-size="12" fill="#94A3B8" font-weight="600">📧 Email</text>
+          <rect y="7" width="180" height="24" rx="5" ry="5" fill="rgba(168, 85, 247, 0.1)" stroke="rgba(168, 85, 247, 0.3)"/>
+          <text x="10" y="23" class="font-mono" font-size="10" fill="#C084FC" font-weight="600">kamalaassab2002@gmail.com</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Divider Line -->
+    <line x1="30" y1="335" x2="655" y2="335" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1"/>
+
+    <!-- 4. SKILLS GLOWING PILLS -->
+    <g transform="translate(30, 350)">
+      <text class="font-sans" font-size="12" fill="#94A3B8" font-weight="700" letter-spacing="0.5">TECHNICAL SKILLS &amp; TECHNOLOGIES</text>
+
+      <!-- Row 1 Pills -->
+      <g transform="translate(0, 14)" class="font-sans">
+        <!-- React -->
+        <g class="skill-pill">
+          <rect width="60" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="30" y="16" text-anchor="middle" class="pill-text">React</text>
+        </g>
+        <!-- Next.js -->
+        <g transform="translate(68, 0)" class="skill-pill">
+          <rect width="70" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="35" y="16" text-anchor="middle" class="pill-text">Next.js</text>
+        </g>
+        <!-- TypeScript -->
+        <g transform="translate(146, 0)" class="skill-pill">
+          <rect width="84" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="42" y="16" text-anchor="middle" class="pill-text">TypeScript</text>
+        </g>
+        <!-- JavaScript -->
+        <g transform="translate(238, 0)" class="skill-pill">
+          <rect width="84" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="42" y="16" text-anchor="middle" class="pill-text">JavaScript</text>
+        </g>
+        <!-- Tailwind CSS -->
+        <g transform="translate(330, 0)" class="skill-pill">
+          <rect width="95" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="47.5" y="16" text-anchor="middle" class="pill-text">Tailwind CSS</text>
+        </g>
+        <!-- Node.js -->
+        <g transform="translate(433, 0)" class="skill-pill">
+          <rect width="68" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="34" y="16" text-anchor="middle" class="pill-text">Node.js</text>
+        </g>
+        <!-- Python -->
+        <g transform="translate(509, 0)" class="skill-pill">
+          <rect width="62" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="31" y="16" text-anchor="middle" class="pill-text">Python</text>
+        </g>
+        <!-- PostgreSQL -->
+        <g transform="translate(579, 0)" class="skill-pill">
+          <rect width="82" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="41" y="16" text-anchor="middle" class="pill-text">PostgreSQL</text>
+        </g>
+      </g>
+
+      <!-- Row 2 Pills -->
+      <g transform="translate(0, 46)" class="font-sans">
+        <!-- Neon -->
+        <g class="skill-pill">
+          <rect width="52" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="26" y="16" text-anchor="middle" class="pill-text">Neon</text>
+        </g>
+        <!-- Vercel -->
+        <g transform="translate(60, 0)" class="skill-pill">
+          <rect width="60" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="30" y="16" text-anchor="middle" class="pill-text">Vercel</text>
+        </g>
+        <!-- Git -->
+        <g transform="translate(128, 0)" class="skill-pill">
+          <rect width="44" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="22" y="16" text-anchor="middle" class="pill-text">Git</text>
+        </g>
+        <!-- GitHub -->
+        <g transform="translate(180, 0)" class="skill-pill">
+          <rect width="64" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="32" y="16" text-anchor="middle" class="pill-text">GitHub</text>
+        </g>
+        <!-- Docker -->
+        <g transform="translate(252, 0)" class="skill-pill">
+          <rect width="62" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="31" y="16" text-anchor="middle" class="pill-text">Docker</text>
+        </g>
+        <!-- SAP -->
+        <g transform="translate(322, 0)" class="skill-pill">
+          <rect width="48" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="24" y="16" text-anchor="middle" class="pill-text">SAP</text>
+        </g>
+        <!-- REST APIs -->
+        <g transform="translate(378, 0)" class="skill-pill">
+          <rect width="78" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="39" y="16" text-anchor="middle" class="pill-text">REST APIs</text>
+        </g>
+        <!-- Framer Motion -->
+        <g transform="translate(464, 0)" class="skill-pill">
+          <rect width="102" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="51" y="16" text-anchor="middle" class="pill-text">Framer Motion</text>
+        </g>
+        <!-- Shadcn/UI -->
+        <g transform="translate(574, 0)" class="skill-pill">
+          <rect width="86" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="43" y="16" text-anchor="middle" class="pill-text">Shadcn/UI</text>
+        </g>
+      </g>
+
+      <!-- Row 3 Pills -->
+      <g transform="translate(0, 78)" class="font-sans">
+        <!-- Figma -->
+        <g class="skill-pill">
+          <rect width="56" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="28" y="16" text-anchor="middle" class="pill-text">Figma</text>
+        </g>
+        <!-- AI Automation -->
+        <g transform="translate(64, 0)" class="skill-pill">
+          <rect width="105" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="52.5" y="16" text-anchor="middle" class="pill-text">AI Automation</text>
+        </g>
+        <!-- Prompt Engineering -->
+        <g transform="translate(177, 0)" class="skill-pill">
+          <rect width="138" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="69" y="16" text-anchor="middle" class="pill-text">Prompt Engineering</text>
+        </g>
+        <!-- Workflow Design -->
+        <g transform="translate(323, 0)" class="skill-pill">
+          <rect width="112" height="24" rx="6" ry="6" fill="url(#pillBg)" stroke="url(#pillBorder)" stroke-width="1"/>
+          <text x="56" y="16" text-anchor="middle" class="pill-text">Workflow Design</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Divider Line -->
+    <line x1="30" y1="480" x2="655" y2="480" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1"/>
+
+    <!-- 5. SOCIAL MEDIA ICONS FOOTER -->
+    <g transform="translate(30, 498)">
+      <!-- GitHub -->
+      <g transform="translate(0, 0)">
+        <rect width="110" height="32" rx="8" ry="8" fill="rgba(255, 255, 255, 0.05)" stroke="rgba(255, 255, 255, 0.1)"/>
+        <!-- GitHub Cat Icon -->
+        <path d="M 22 10 A 8 8 0 0 0 14.5 21.5 C 14.9 21.6 15 21.3 15 21.1 L 15 19.7 C 12.8 20.2 12.3 18.7 12.3 18.7 C 11.9 17.8 11.4 17.5 11.4 17.5 C 10.7 17 11.5 17 11.5 17 C 12.3 17.1 12.7 17.8 12.7 17.8 C 13.4 19 14.6 18.6 15 18.4 C 15.1 17.9 15.3 17.5 15.5 17.3 C 13.7 17.1 11.8 16.4 11.8 13.3 C 11.8 12.4 12.1 11.7 12.6 11.1 C 12.5 10.9 12.2 10 12.7 8.9 C 12.7 8.9 13.4 8.7 15 9.8 A 11.5 11.5 0 0 1 21 9.8 C 22.6 8.7 23.3 8.9 23.3 8.9 C 23.8 10 23.5 10.9 23.4 11.1 C 23.9 11.7 24.2 12.4 24.2 13.3 C 24.2 16.4 22.3 17.1 20.5 17.3 C 20.8 17.6 21 18.1 21 18.9 L 21 21.1 C 21 21.3 21.1 21.6 21.5 21.5 A 8 8 0 0 0 22 10 Z" fill="#F8FAFC"/>
+        <text x="38" y="20" class="font-sans" font-size="11.5" fill="#F8FAFC" font-weight="600">GitHub</text>
+      </g>
+
+      <!-- LinkedIn -->
+      <g transform="translate(125, 0)">
+        <rect width="115" height="32" rx="8" ry="8" fill="rgba(37, 99, 235, 0.12)" stroke="rgba(37, 99, 235, 0.3)"/>
+        <!-- LinkedIn Icon -->
+        <rect x="14" y="10" width="3.5" height="11" fill="#38BDF8"/>
+        <circle cx="15.75" cy="7.5" r="2" fill="#38BDF8"/>
+        <path d="M 20.5 14 C 20.5 12.5 21.5 11.5 23 11.5 C 24.5 11.5 25.5 12.5 25.5 14 L 25.5 21 L 22 21 L 22 14.5 C 22 13.8 21.5 13.5 21 13.5 C 20.5 13.5 20.5 13.8 20.5 14.5 L 20.5 21 L 17 21 L 17 10 L 20.5 10 Z" fill="#38BDF8"/>
+        <text x="38" y="20" class="font-sans" font-size="11.5" fill="#38BDF8" font-weight="600">LinkedIn</text>
+      </g>
+
+      <!-- Portfolio -->
+      <g transform="translate(255, 0)">
+        <rect width="120" height="32" rx="8" ry="8" fill="rgba(34, 211, 238, 0.12)" stroke="rgba(34, 211, 238, 0.3)"/>
+        <!-- Globe Icon -->
+        <circle cx="21" cy="16" r="6.5" fill="none" stroke="#22D3EE" stroke-width="1.5"/>
+        <ellipse cx="21" cy="16" rx="3" ry="6.5" fill="none" stroke="#22D3EE" stroke-width="1.2"/>
+        <line x1="14.5" y1="16" x2="27.5" y2="16" stroke="#22D3EE" stroke-width="1.2"/>
+        <text x="36" y="20" class="font-sans" font-size="11.5" fill="#22D3EE" font-weight="600">Portfolio</text>
+      </g>
+
+      <!-- Email -->
+      <g transform="translate(390, 0)">
+        <rect width="105" height="32" rx="8" ry="8" fill="rgba(168, 85, 247, 0.12)" stroke="rgba(168, 85, 247, 0.3)"/>
+        <!-- Envelope Icon -->
+        <rect x="14" y="10" width="14" height="10" rx="2" fill="none" stroke="#C084FC" stroke-width="1.4"/>
+        <path d="M 14 11 L 21 16 L 28 11" fill="none" stroke="#C084FC" stroke-width="1.4"/>
+        <text x="36" y="20" class="font-sans" font-size="11.5" fill="#C084FC" font-weight="600">Email</text>
+      </g>
+    </g>
+  </g>
+</svg>
