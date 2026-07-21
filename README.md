@@ -107,29 +107,34 @@ Focus Areas:
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- GitHub Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app?username=KamalAassab&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false" alt="Kamal's GitHub Trophies" />
+  <!-- GitHub Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KamalAassab&theme=dark&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KamalAassab&theme=default&hide_border=false">
+    <img alt="Kamal's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=KamalAassab&theme=dark&hide_border=false" height="175" />
+  </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Dynamic Dark / Light Stats Cards -->
+  <!-- Profile Summary Stats Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KamalAassab&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=KamalAassab&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true">
-    <img alt="Kamal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KamalAassab&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KamalAassab&theme=2077">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KamalAassab&theme=default">
+    <img alt="Kamal's GitHub Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KamalAassab&theme=2077" height="175" />
   </picture>
 
   &nbsp;
 
+  <!-- Profile Summary Repos Per Language Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=KamalAassab&layout=compact&langs_count=6&theme=dark&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=KamalAassab&layout=compact&langs_count=6&theme=default&hide_border=false">
-    <img alt="Kamal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=KamalAassab&layout=compact&langs_count=6&theme=dark&hide_border=false" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KamalAassab&theme=2077">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KamalAassab&theme=default">
+    <img alt="Kamal's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KamalAassab&theme=2077" height="175" />
   </picture>
 </div>
 
