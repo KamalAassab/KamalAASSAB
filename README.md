@@ -1,80 +1,119 @@
+<!-- HERO BANNER (DARK/LIGHT MODE SYNCHRONIZED) -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/main/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/main/light.svg">
-    <img alt="Kamal AASSAB Hero Banner" src="https://raw.githubusercontent.com/KamalAassab/KamalAassab/main/dark.svg" width="100%">
+    <img alt="Kamal AASSAB - Full Stack Web & AI Developer" src="https://raw.githubusercontent.com/KamalAassab/KamalAassab/main/dark.svg" width="100%">
   </picture>
 </div>
 
-###
+<br />
 
+<!-- QUICK LINKS / SOCIAL BADGES -->
 <div align="center">
-  <img height="214" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t2NHRmb3podHE3Ym43YjV1Ynp1cm93Y2U2dGJ2NG4xYjFheWhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PMfeaU44ChYmRdWDrY/giphy.gif" />
-</div>
-
-###
-
-<br clear="both">
-
-<h4 align="center">I'm Kamal, a skilled frontend developer with 1+ years of experience. I'm highly proficient in the core technologies that power modern web development, including React, TypeScript/JavaScript, Next.js, and Tailwind CSS.</h4>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=KamalAassab&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KamalAassab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KamalAassab&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="148" alt="stats graph" />
-</div>
-
-###
-
-<div align="center">
+  <a href="https://kamal-aassab.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-kamal--aassab.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/kamalaassab" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/its.urky" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="mailto:kamalaassab2002@gmail.com?subject=Hi%20there!%20can%20we%20talk%20about%20business%20%3F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="mailto:kamalaassab2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.behance.net/k872" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo" />
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://instagram.com/its.urky" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
-###
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### ⚡ About Me
+
+```yaml
+Name: Kamal AASSAB
+Location: El Jadida, Morocco 🇲🇦
+Role: Full Stack Web Developer & AI Automation Builder
+Education:
+  - Bachelor in Computer Science
+  - Master's Student — Ingénierie des Méthodes Informatiques (IMI)
+Current Position: Financial & CAPEX Operations (SAP) @ EMAPHOS / OCP Group
+Focus Areas:
+  - Building Premium Web Applications & SaaS
+  - Enterprise Workflow Automations & AI Integration
+  - Modern UI/UX Design & Next.js Ecosystems
+```
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,html,css,nodejs,python,postgres,mysql,docker,git,github,vercel,figma" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+<br />
+
+<details>
+  <summary><b>🔍 Detailed Breakdown of Technologies & Skillset</b></summary>
+  <br />
+
+  | Category | Technologies |
+  | :--- | :--- |
+  | **Frontend & UI** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap, HTML5, CSS3, Framer Motion, Shadcn/UI |
+  | **Backend & Databases** | Node.js, Python, PostgreSQL, Neon, MySQL, REST APIs |
+  | **Enterprise & Tools** | SAP (CAPEX Operations), Docker, Git, GitHub, Vercel, Figma |
+  | **AI & Automation** | AI Automations, Prompt Engineering, Business Workflow Design |
+</details>
+
+---
+
+### 📊 GitHub Stats & Trophies
+
+<div align="center">
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app?username=KamalAassab&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false" alt="Kamal's GitHub Trophies" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Dynamic Dark / Light Stats Cards -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KamalAassab&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=KamalAassab&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true">
+    <img alt="Kamal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KamalAassab&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" height="165" />
+  </picture>
+
+  &nbsp;
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=KamalAassab&layout=compact&langs_count=6&theme=dark&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=KamalAassab&layout=compact&langs_count=6&theme=default&hide_border=false">
+    <img alt="Kamal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=KamalAassab&layout=compact&langs_count=6&theme=dark&hide_border=false" height="165" />
+  </picture>
+</div>
+
+---
+
+### 👾 Activity & Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/KamalAassab/KamalAassab/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <i>💡 "Building software that bridges business workflows with intelligent automation."</i>
+</div>
