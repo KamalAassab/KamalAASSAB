@@ -51,10 +51,20 @@ Focus Areas:
 ### 🛠 Tech Stack & Tools
 
 <div align="center">
+  <!-- Frontend & UI -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,html,css,nodejs,python,postgres,mysql,docker,git,github,vercel,figma" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,html,css,figma&perline=9" alt="Frontend Tech Stack" />
   </a>
-  <img src="https://cdn.simpleicons.org/sap/008FD3" height="48" alt="SAP Logo" title="SAP" />
+  <br /><br />
+  <!-- Backend, DB & Cloud -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mysql,docker,git,github,vercel&perline=8" alt="Backend & DevOps Tech Stack" />
+  </a>
+  <br /><br />
+  <!-- Enterprise Systems -->
+  <a href="https://www.sap.com" target="_blank">
+    <img src="https://img.shields.io/badge/SAP_ERP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Enterprise System" />
+  </a>
 </div>
 
 <br />
