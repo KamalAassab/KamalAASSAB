@@ -75,6 +75,26 @@ Focus Areas:
 
 ---
 
+### 🎨 UI/UX Design & Animated Engineering
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/UI" />
+  <img src="https://img.shields.io/badge/Pure_SVG_Animations-7C3AED?style=for-the-badge&logo=svg&logoColor=white" alt="SVG Animations" />
+</div>
+
+<br />
+
+> **Crafting Apple/Vercel/Linear-grade user interfaces that pair high performance with immersive motion design.**
+
+- 🪄 **Micro-Animations & Motion**: Smooth 60fps transitions, floating glassmorphism overlays, typing reveals, and interactive reactive states.
+- 📐 **Design Systems & Figma-to-Code**: Translating wireframes into reusable, modular React & Next.js design tokens with pixel-perfect precision.
+- 🚀 **High-Converting Landing Pages & Fullstack Apps**: Engaging user journeys built with responsive CSS, dark/light dynamic themes, and modern typography.
+
+---
+
 ### 📊 GitHub Stats & Trophies
 
 <div align="center">
